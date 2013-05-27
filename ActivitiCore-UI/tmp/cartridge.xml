@@ -1,0 +1,18 @@
+<cartridge xmlns="urn:X-quest.com:forge/cartridge/manifest/6.0"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="urn:X-quest.com:forge/cartridge/manifest/6.0
+                ../../dist/dtd/cartridge.xsd">
+    <name>ActivitiCoreUI</name>
+    <version>1.1.0</version>
+    <build-id>20130527-1348</build-id>
+    <creation-date>2013-05-27 13:48:47-0327</creation-date>
+    <deployment license-required="false"/>
+    <author>Stefan Marx</author>
+    <requires>
+        <server version="6.0"/>
+        <cartridge name="forge">
+            <version any="true"/>
+        </cartridge>
+    </requires>
+
+</cartridge>
